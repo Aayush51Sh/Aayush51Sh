@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aayush51Sh
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C and C++ Programming
-- 💞️ I’m looking to collaborate on future Web Development projects.
+- 🌱 I’m currently learning JavaScript & Python
+- 💞️ I’m looking to collaborate on future Web Development projects
 - 📫 How to reach me - aayush51.sh@gmail.com
 
 <!---
